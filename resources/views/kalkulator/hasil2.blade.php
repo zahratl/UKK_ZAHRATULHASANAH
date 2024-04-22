@@ -79,7 +79,7 @@
             </tr>
 
             <tr>
-                <td colspan=4><center><input type="number" name="hasil" id="" value="{{$hasil}}"></center></td>
+                <td colspan=4><center><input type="number" name="hasil" id="" value="{{$hasil2}}"></center></td>
             </tr>
 
 
